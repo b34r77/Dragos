@@ -88,7 +88,7 @@
     "uniqCompNum": 73,
     "versionPublish": "6.0.6",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-TN8HQX24MC\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-TN8HQX24MC');\n</script>",
     "cookiesAlertType": "1",
     "gdpr": false
