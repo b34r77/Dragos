@@ -6,12 +6,12 @@
 		<loc>http://dragos.ing/page1.html</loc>
 	</url>
 	<url>
-		<loc>http://dragos.ing/page2.html</loc>
-	</url>
-	<url>
 		<loc>http://dragos.ing/page3.html</loc>
 	</url>
 	<url>
 		<loc>http://dragos.ing/page4.html</loc>
+	</url>
+	<url>
+		<loc>http://dragos.ing/page2.html</loc>
 	</url>
 </urlset>
