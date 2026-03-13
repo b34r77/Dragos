@@ -64,7 +64,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/email.png",
-    "mbrsiteDomain": "cd3xg9qwii",
+    "mbrsiteDomain": "lpqdaomo2s",
     "imageResize": false,
     "usedWebp": true,
     "robotsSwitcher": false,
@@ -81,7 +81,7 @@
       "underlineLink": true,
       "opacityOverlay": "0",
       "bgOpacity": "90",
-      "text": "Pagina folosește cookie-uri pentru a-ți oferi cea mai bună experiență. Citește <a href='privacy.html'>politica noastră de cookie-uri</a>.",
+      "text": "Pagina folosește cookie-uri pentru a-ți oferi cea mai bună experiență.",
       "textButton": "Ok",
       "rejectText": "REJECT"
     },
