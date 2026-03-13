@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "publicatii.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -64,7 +64,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/email.png",
-    "mbrsiteDomain": "tj3adotoc9",
+    "mbrsiteDomain": "cd3xg9qwii",
     "imageResize": false,
     "usedWebp": true,
     "robotsSwitcher": false,

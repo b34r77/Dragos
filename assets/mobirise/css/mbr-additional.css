@@ -1495,55 +1495,6 @@ a {
 .cid-uPjQJE3BD1 .media-container-row .mbr-text {
   color: #a6a99c;
 }
-.cid-vdLsKQKGmn {
-  padding-top: 10rem;
-  padding-bottom: 3rem;
-  background-color: #ffffff;
-}
-.cid-vdLsKQKGmn .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-vdLsKQKGmn .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-vdLsKQKGmn .card-wrapper {
-  background: #edefeb;
-}
-@media (max-width: 767px) {
-  .cid-vdLsKQKGmn .card-wrapper {
-    padding: 1.5rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-vdLsKQKGmn .card-wrapper {
-    padding: 2.25rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-vdLsKQKGmn .card-wrapper {
-    padding: 9rem 4rem;
-  }
-}
-.cid-vdLsKQKGmn .mbr-text,
-.cid-vdLsKQKGmn .mbr-section-btn {
-  color: #000000;
-  text-align: left;
-}
-.cid-vdLsKQKGmn .card-title,
-.cid-vdLsKQKGmn .card-box {
-  text-align: center;
-  color: #a6a99c;
-}
-.cid-vdLsKQKGmn .card-title,
-.cid-vdLsKQKGmn .card-box DIV {
-  text-align: left;
-}
 .cid-tHeG7yune1 {
   z-index: 1000;
   width: 100%;
@@ -2111,6 +2062,55 @@ a {
   .cid-tHeG7yune1 .navbar-collapse {
     padding: 1rem;
   }
+}
+.cid-vdLsKQKGmn {
+  padding-top: 10rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-vdLsKQKGmn .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vdLsKQKGmn .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vdLsKQKGmn .card-wrapper {
+  background: #edefeb;
+}
+@media (max-width: 767px) {
+  .cid-vdLsKQKGmn .card-wrapper {
+    padding: 1.5rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-vdLsKQKGmn .card-wrapper {
+    padding: 2.25rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-vdLsKQKGmn .card-wrapper {
+    padding: 9rem 4rem;
+  }
+}
+.cid-vdLsKQKGmn .mbr-text,
+.cid-vdLsKQKGmn .mbr-section-btn {
+  color: #000000;
+  text-align: left;
+}
+.cid-vdLsKQKGmn .card-title,
+.cid-vdLsKQKGmn .card-box {
+  text-align: center;
+  color: #a6a99c;
+}
+.cid-vdLsKQKGmn .card-title,
+.cid-vdLsKQKGmn .card-box DIV {
+  text-align: left;
 }
 .cid-uPlMFwAzaP {
   padding-top: 3rem;
